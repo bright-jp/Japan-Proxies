@@ -1,6 +1,6 @@
 # Bright Dataの日本プロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/jp) 
+[![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/jp) 
 
 ## 概要
 Bright Dataの[日本プロキシ](https://brightdata.jp/locations/jp)で、シームレスなスクレイピングをご体験ください。精密なターゲティング、比類のない安定性、高速な応答時間を実現するよう設計されています。日本からWebサイトのスクレイピングを開始し、二度とブロックされないようにしましょう。
@@ -43,7 +43,7 @@ Bright Dataの[日本プロキシ](https://brightdata.jp/locations/jp)で、シ�
 - **3G/4G/5GモバイルIP**
 - **24時間365日のグローバルサポート**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/jp) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/jp) 
 
 ## Bright Dataの米国プロキシを始める
 1. **無料トライアルを開始**: クレジットカードは不要です。
