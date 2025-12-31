@@ -1,90 +1,90 @@
-# Bright Data's Japan Proxies
+# Bright Dataの日本プロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/locations/jp) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/jp) 
 
-## Overview
-Experience seamless scraping with Bright Data's [Japan proxies](https://brightdata.com/locations/jp), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from Japan and don't get blocked again.
+## 概要
+Bright Dataの[日本プロキシ](https://brightdata.jp/locations/jp)で、シームレスなスクレイピングをご体験ください。精密なターゲティング、比類のない安定性、高速な応答時間を実現するよう設計されています。日本からWebサイトのスクレイピングを開始し、二度とブロックされないようにしましょう。
 
-- **676K Japan proxy IPs**
-- **Sticky and rotating sessions**
-- **99.95% success rate**
-- **HTTP(S) & SOCKS5 support**
-- **Geo-targeting (Free)**
+- **676K 日本プロキシIP**
+- **スティッキーおよびローテーティングセッション**
+- **99.95%の成功率**
+- **HTTP(S) & SOCKS5サポート**
+- **ジオターゲティング（無料）**
 
-## Key Features
-- **High Success Rates**: Achieve up to 99.95% success in your scraping projects.
-- **Fast Response**: Average response time of ~0.7 seconds.
-- **Ethically Sourced**: All proxies are sourced with explicit user consent.
-- **Unlimited Concurrent Sessions**: Scale your operations without limitations.
+## 主な特長
+- **高い成功率**: スクレイピングプロジェクトで最大99.95%の成功率を達成できます。
+- **高速レスポンス**: 平均応答時間は約0.7秒です。
+- **倫理的な調達**: すべてのプロキシは、明示的なユーザー同意のもとで提供されています。
+- **無制限の同時セッション**: 制限なく運用をスケールできます。
 
-## Types of Japan Proxies
+## 日本プロキシの種類
 
-**[**Residential proxies**](https://brightdata.com/proxy-types/residential-proxies)** - Enjoy effortless scraping with the fastest residential proxies in the industry. Take advantage of accurate targeting and unparalleled reliability.
+**[**レジデンシャルプロキシ**](https://brightdata.jp/proxy-types/residential-proxies)** - 業界最速のレジデンシャルプロキシにより、手間なくスクレイピングを行えます。正確なターゲティングと比類のない信頼性をご活用ください。
   
-- **400,000 Japan residential IPs**
-- **HTTP(S)/ & SOCKS5 supported**
-- **Global customer support**
+- **400,000 日本レジデンシャルIP**
+- **HTTP(S)/ & SOCKS5対応**
+- **グローバルカスタマーサポート**
 
-**[**Datacenter proxies**](https://brightdata.com/proxy-types/datacenter-proxies)** - Effortlessly scale anonymous data collection using the fastest and most dependable datacenter IP pool.
+**[**データセンタープロキシ**](https://brightdata.jp/proxy-types/datacenter-proxies)** - 最速かつ最も信頼性の高いデータセンターIPプールを使用して、匿名のデータ収集を容易にスケールできます。
   
-- **25,000 Japan datacenter IPs**
-- **0.24s resonse time**
-- **Pay-Per-IP or bandwidth usage**
+- **25,000 日本データセンターIP**
+- **0.24秒のresonse time**
+- **IP単位または帯域幅使用量に基づく課金**
 
-**[**ISP proxies**](https://brightdata.com/proxy-types/isp-proxies)** - Highest quality static residential proxies that you can keep for life.
+**[**ISPプロキシ**](https://brightdata.jp/proxy-types/isp-proxies)** - 生涯にわたって保持できる、最高品質のスタティックレジデンシャルプロキシです。
   
-- **2,300 Japan static residential IPs**
-- **Pay-per-IP or by bandwidth usage**
-- **Fastest response time in the industry**
+- **2,300 日本スタティックレジデンシャルIP**
+- **IP単位または帯域幅使用量に基づく課金**
+- **業界最速の応答時間**
 
-**[**Mobile proxies**](https://brightdata.com/proxy-types/mobile-proxies)** - View the web as real mobile users do with mobile IPs from around the globe.
+**[**モバイルプロキシ**](https://brightdata.jp/proxy-types/mobile-proxies)** - 世界中のモバイルIPで、実際のモバイルユーザーと同じようにWebを閲覧できます。
   
-- **249,000 Japan mobile proxy IPs**
-- **3G/4G/5G mobile IPs**
-- **24/7 global support**
+- **249,000 日本モバイルプロキシIP**
+- **3G/4G/5GモバイルIP**
+- **24時間365日のグローバルサポート**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/jp) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/jp) 
 
-## Getting Started with Bright Data's United States proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Use our APIs or Control Panel to manage IPs and configurations.
-3. **Supported Languages**: Quick start examples provided for Python, Java, C#, Node.js, and Shell.
+## Bright Dataの米国プロキシを始める
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: APIまたはControl Panelを使用して、IPと設定を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell向けのクイックスタート例を提供しています。
 
-## Integrations
-Our Japan proxies integrate with popular tools and frameworks, including:
+## 連携
+当社の日本プロキシは、以下を含む人気ツールやフレームワークと連携します。
 
-- [**Puppeteer**](https://brightdata.com/integration/puppeteer)
-- [**Selenium**](https://brightdata.com/integration/selenium)
-- [**Playwright**](https://brightdata.com/integration/playwright)
-- [**AdsPower**](https://brightdata.com/integration/adspower)
-- [**MultiLogin**](https://brightdata.com/integration/multilogin)
-- [**All proxy integrations**](https://brightdata.com/integration)
+- [**Puppeteer**](https://brightdata.jp/integration/puppeteer)
+- [**Selenium**](https://brightdata.jp/integration/selenium)
+- [**Playwright**](https://brightdata.jp/integration/playwright)
+- [**AdsPower**](https://brightdata.jp/integration/adspower)
+- [**MultiLogin**](https://brightdata.jp/integration/multilogin)
+- [**すべてのプロキシ連携**](https://brightdata.jp/integration)
 
-## Popular Use Cases
-Explore how businesses leverage US proxies:
+## 人気のユースケース
+企業がUSプロキシをどのように活用しているかをご覧ください。
 
-- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and reviews.
-- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends.
-- [**Real Estate**](https://brightdata.com/use-cases/real-estate): Gather market data.
-- [**Travel**](https://brightdata.com/use-cases/travel): Compare prices across regions.
-- [**Financial Services**](https://brightdata.com/use-cases/financial): Analyze trends securely.
+- [**eCommerce**](https://brightdata.jp/use-cases/ecommerce): 価格とレビューを追跡します。
+- [**ソーシャルメディア**](https://brightdata.jp/use-cases/social-media-for-marketing): トレンドをモニタリングします。
+- [**不動産**](https://brightdata.jp/use-cases/real-estate): 市場データを収集します。
+- [**旅行**](https://brightdata.jp/use-cases/travel): 地域間で価格を比較します。
+- [**金融サービス**](https://brightdata.jp/use-cases/financial): セキュアにトレンドを分析します。
 
 ## FAQ
 
-### What is a Japan proxy server?
-A Japan proxy server is a server based in the United States that serves as an intermediary between your device and the internet. It provides anonymity, helps bypass restrictions and blocks, enables web content scraping, and enforces content filtering policies.
+### 日本プロキシサーバーとは何ですか？
+日本プロキシサーバーとは、米国に拠点を置くサーバーであり、デバイスとインターネットの間の仲介役として機能します。匿名性を提供し、制限やブロックの回避を支援し、Webコンテンツのスクレイピングを可能にし、コンテンツフィルタリングポリシーを適用します。
 
-### Can I target ZIP codes across Japan?
-Yes, you can choose IPs using Japan zip code level targeting. Bright Data also offers city and state level US proxy targeting.
+### 日本全域で郵便番号（ZIPコード）を指定できますか？
+はい、日本の郵便番号レベルのターゲティングを使用してIPを選択できます。Bright Dataは、都市および州レベルのUSプロキシターゲティングも提供しています。
 
-### What types of plans are available? 
-Bright Data offers flexible pricing models, including:
+### 利用可能なプランの種類は何ですか？ 
+Bright Dataは、以下を含む柔軟な料金モデルを提供しています。
 
-- **Pay-As-You-Go**: Fixed rate per GB.
-- **Subscription Plans**: Monthly, yearly, and custom options.
+- **従量課金（Pay-As-You-Go）**: GBあたりの固定料金です。
+- **サブスクリプションプラン**: 月次、年次、カスタムオプションです。
 
-### Are Bright Data's Japan Proxies compliant and safe to use?
-Bright Data’s proxies are ethically sourced, and we comply with all relevant data protection laws, including GDPR and CCPA.
+### Bright Dataの日本プロキシは準拠しており、安全に使用できますか？
+Bright Dataのプロキシは倫理的に調達されており、GDPRおよびCCPAを含む、関連するすべてのデータ保護法に準拠しています。
 
-### Is there dedicated support available?
-Our dedicated support team is available 24/7 to assist you. Contact us to discuss your needs and maximize the benefits of our Dedicated proxy network.
+### 専任サポートは利用できますか？
+専任サポートチームが24時間365日対応し、お客様を支援します。お問い合わせいただき、お客様のニーズについてご相談のうえ、Dedicated proxy networkのメリットを最大限にご活用ください。
